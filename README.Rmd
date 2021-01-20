@@ -1,6 +1,6 @@
 ---
 title: "Lab 2: Introduction to RStudio"
-author: "___"
+author: "Amaya Jerdee"
 date: "`r format(Sys.Date())`"
 output: github_document
 ---
@@ -13,8 +13,11 @@ Welcome to my Lab 2 repository for Quantitative Biology BIOL 275 at MSUM.
 
 The objectives of this lab are:
 
-- ___
-- ___
+- use the console and source windows in Rstudio
+- Write and run code in an R script
+- Document code from an R script to an R Markdown document
+- Transfer code from an R script to an R Markdown Document
+- Craft a narrative combining text explanation, code, and graphs
 
 ## Repository contents
 
