@@ -7,7 +7,6 @@ output: github_document
 
 ## Instructions
 
-Replace any triple underscores "___" with the appropriate text.
 
 Copy the appropriate code from your R script [calculator.R](calculator.R) and paste it into the code chunks below.
 
