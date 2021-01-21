@@ -57,6 +57,7 @@ In the next lab we will begin using data frames, which are tables of data consis
 As an example, imagine that the numbers above represent the weights of chicks in an experiment. The first five numbers come from chicks that were fed organic grain while the second were fed non-organic grain.
 
 We could visualize the data as follows.
+Here is my session information:
 
 ```{r }
 
@@ -104,4 +105,12 @@ ggplot(chick_data, aes(x = diet, y = weight, color = diet, fill = diet)) +
     y = "Weight (g)"
   )
 
+```
+
+## Session Info
+
+Here is my session information:
+
+```{r}
+sessioninfo::session_info()
 ```
