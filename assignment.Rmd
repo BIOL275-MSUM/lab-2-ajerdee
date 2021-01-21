@@ -58,7 +58,7 @@ As an example, imagine that the numbers above represent the weights of chicks in
 We could visualize the data as follows.
 Here is my session information:
 
-```{r }
+```{r echo=FALSE, message=FALSE }
 
 library(tidyverse)
 
